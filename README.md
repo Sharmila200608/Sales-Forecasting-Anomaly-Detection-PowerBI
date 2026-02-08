@@ -28,8 +28,8 @@
   - Orders
 - **Dimension Tables**
   - Date
-  - Product
-  - Region / Customer
+  - People
+  - Returns
 - Star Schema used to improve performance and simplify analysis
 
 ## **Dashboard Pages**
@@ -60,4 +60,5 @@
 - Power BI Desktop
 - Power Query
 - DAX
+- Data Modeling
 - Power BI AI Features (Forecasting, Anomaly Detection, Smart Narratives)
