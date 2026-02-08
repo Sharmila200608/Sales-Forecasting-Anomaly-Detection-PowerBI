@@ -1,4 +1,4 @@
-# **Sales Forecasting & Anomaly Detection – Power BI (AI Project)**
+# **Sales Forecasting & Anomaly Detection – Power BI**
 
 ## **Project Overview**
 - This project uses **AI-powered analytics in Power BI** to move from reactive reporting to predictive analytics
